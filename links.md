@@ -1,0 +1,3 @@
+- Postgresql Client: [Dbeaver](https://dbeaver.io/)
+- Ts linter: [ESlint](https://eslint.org/)
+- FrontEnd Test Framework: [Cypress](https://www.cypress.io/)
