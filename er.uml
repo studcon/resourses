@@ -60,6 +60,7 @@ class Question {
    id: int
    title: string
    answers: string[]
+   correctAnswer: string
 }
 
 class Subject {
